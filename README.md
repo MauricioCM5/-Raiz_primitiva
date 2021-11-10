@@ -1,1 +1,2 @@
-# Raiz_primitiva
+# Inverso Multiplicativo
+
