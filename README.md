@@ -1,1 +1,1 @@
-# -Raiz_primitiva
+# Raiz_primitiva
